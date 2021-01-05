@@ -1,0 +1,4 @@
+[submodule "D:\\Hugo\\Sites\\starter-academic\\public"]
+	path = D:\\Hugo\\Sites\\starter-academic\\public
+	url = https://github.com/richakbee/richakbee.github.io.git
+	branch = master
