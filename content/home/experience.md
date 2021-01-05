@@ -22,24 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Business Analyst
+    company: NMTechnosol ( in apprenticeship with @Affine Analytics )
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Bangalore , India
+    date_start: '2019-08-01'
     date_end: ''
     description: |2-
+ 
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+        * Remote work for world's second largest animal health company.
+        * Advanced analytics, Derive insights from transaction level data
+        * Wrote automatable scripts  for processes 
+        * Served various onsite adhoc analytical requests
+        * Dashboard creation, maintenance and story telling with Tableau 
+        * Identified KPI for waterfall analysis
+        * Repeat purchase analysis 
+        * Defined Initial set of KPI's and Identified four clusters for Market segmentation using unsupervised machine learning techniques for targeted marketing .
+        * Automated tasks using R
+      <hr>
+      Tools  & Tecnologies include:
+        R, PYTHON, SQL, TABLEAU, SQL SERVER, SCIKIT-LEARN, 
+        WEB SCRAPING, SQL SERVER, EXCEL, POWERPOINT
+
+  - title: Full Stack Web Developer (Intern)
+    company: Mindfire Solutions
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bhubaneswar , India
+    date_start: '2019-01-03'
+    date_end: '2019-06-30'
+    description: |2-
+ 
+        Responsibilities include:
+
+      * Created a Blog Site from scratch.
+       <hr>
+      Tools  & Tecnologies include:
+      HTML, CSS , JAVASCRIPT , AJAX , JQUERY , Cold Fusion 
 ---

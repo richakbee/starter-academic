@@ -1,5 +1,6 @@
 ---
 # An instance of the Featured widget.
+active: false
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 

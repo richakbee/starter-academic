@@ -23,28 +23,52 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/9F9CUTAYF6T4
+  date_end: "2020-10-01"
+  date_start: "2020-05-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  organization: University of Michigan  
+  organization_url: https://umich.edu/ 
+  title: Applied Data Science with Python Specialization
+  url: "https://www.coursera.org/specializations/data-science-python"
+- certificate_url: https://coursera.org/share/51a7b2f44f65dc95ed43153ff8f355cb
+  date_end: "2020-12-01"
+  date_start: "2020-11-01"
+  description: 
+  organization: deeplearning.ai
+  organization_url: https://www.deeplearning.ai/
+  title:  Deep Learning Specialization
+  url: https://www.coursera.org/specializations/deep-learning
+- certificate_url: https://coursera.org/share/9fac19050fc05b3e723d9ce7f3eaf1e4
+  date_end: "2020-12-30"
+  date_start: "2020-12-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  organization: deeplearning.ai
+  organization_url: https://www.deeplearning.ai/
+  title: 'DeepLearning.AI TensorFlow Developer'
+  url: "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+- certificate_url: https://drive.google.com/file/d/1sUuR5Lw1fBPiU0W9i4OrCtZCIbtmtV-H/view?usp=sharing
+  date_end: "2020-04-17"
+  date_start: "2020-02-24"
+  description: ""
+  organization: Indian Institute of Technology, Kharagpur
+  organization_url: http://www.iitkgp.ac.in/
+  title: 'Data Mining'
+  url: "https://onlinecourses.nptel.ac.in/noc20_cs12/preview"
+- certificate_url: https://drive.google.com/file/d/1zv3U38R5EjU82LluBNW9vtICVoihK0oV/view?usp=sharing
+  date_end: "2020-04-17"
+  date_start: "2020-02-24"
+  description: ""
+  organization: Indian Institute of Technology, Kanpur 
+  organization_url: https://www.iitk.ac.in/
+  title: 'Descriptive Statistics with R Software'
+  url: "https://onlinecourses.nptel.ac.in/noc20_ma24/preview"
+- certificate_url: https://www.udemy.com/certificate/UC-7Q034YD9/
+  date_end: "2019-12-01"
+  date_start: "2020-01-24"
+  description: ""
+  organization: Udemy 
+  organization_url: https://www.udemy.com/
+  title: 'Tableau 2020 A-Z: Hands-On Tableau Training for Data Science'
+  url: "https://www.udemy.com/course/tableau10/"    
 ---
