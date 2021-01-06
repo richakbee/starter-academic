@@ -74,9 +74,11 @@ I define myself as a curious person . <i> I buy more books than i can read and e
 I have spent last two years in the industry , working in the analytics domain . Recently, i 
 started working in machine learning domain and fell in love with it. I have since found myself 
 exploring wide variety of  Machine Learning Industry Use Cases , algorithms, tools and technologies related to the same.
+I am the person who goes into the nitty gritty of things , but then at the same time take a step back every now and then to take 
+a look at the bigure picture of things. This is why data science entices me.
 <br>
 My most recent endeavour : Deep Learning , Convoution Neural Networks, LSTM, GRU , Resnet , NLP tasks ,
-Reccurent neural networks, Transfer learning, Predictive Analytics,Tensorflow (frame work) .
+Reccurent neural networks, Transfer learning, Predictive Analytics and Tensorflow as a choice of frame work .
 
 
 

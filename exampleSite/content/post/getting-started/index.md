@@ -22,11 +22,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+ # focal_point: ""
+ # placement: 2
+ # preview_only: false
 
 authors:
 - admin
@@ -34,12 +34,15 @@ authors:
 
 tags:
 - Academic
-- 开源
+
 
 categories:
 - Demo
 - 教程
+
+
 ---
+
 
 ## Overview
 

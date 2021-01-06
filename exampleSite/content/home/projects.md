@@ -13,6 +13,7 @@ title: Projects
 subtitle: ''
 
 content:
+  count: 1
   # Page type to display. E.g. project.
   page_type: project
 
