@@ -35,7 +35,7 @@ experience:
         * Remote work for world's second largest animal health company.
         * Advanced analytics, Derive insights from transaction level data
         * Wrote automatable scripts  for processes 
-        * Served various onsite adhoc analytical requests
+        * Served various on-site adhoc analytical requests
         * Dashboard creation, maintenance and story telling with Tableau 
         * Identified KPI for waterfall analysis
         * Repeat purchase analysis 

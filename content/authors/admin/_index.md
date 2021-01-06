@@ -73,7 +73,7 @@ highlight_name: false
 I define myself as a curious person . <i> I buy more books than i can read and enroll in more courses than i can complete.</i>
 I have spent last two years in the industry , working in the analytics domain . Recently, i 
 started working in machine learning domain and fell in love with it. I have since found myself 
-exploring wide variety of  Machine Learning Industry Use Cases , algorithms, tools and technologies related to same.
+exploring wide variety of  Machine Learning Industry Use Cases , algorithms, tools and technologies related to the same.
 <br>
 My most recent endeavour : Deep Learning , Convoution Neural Networks, LSTM, GRU , Resnet , NLP tasks ,
 Reccurent neural networks, Transfer learning, Predictive Analytics,Tensorflow (frame work) .

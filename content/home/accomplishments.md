@@ -64,8 +64,8 @@ item:
   title: 'Descriptive Statistics with R Software'
   url: "https://onlinecourses.nptel.ac.in/noc20_ma24/preview"
 - certificate_url: https://www.udemy.com/certificate/UC-7Q034YD9/
-  date_end: "2019-12-01"
-  date_start: "2020-01-24"
+  date_end: "2020-01-24"
+  date_start: "2019-12-01"
   description: ""
   organization: Udemy 
   organization_url: https://www.udemy.com/
