@@ -50,7 +50,7 @@ item:
 - certificate_url: https://drive.google.com/file/d/1sUuR5Lw1fBPiU0W9i4OrCtZCIbtmtV-H/view?usp=sharing
   date_end: "2020-04-17"
   date_start: "2020-02-24"
-  description: ""
+  description: 
   organization: Indian Institute of Technology, Kharagpur
   organization_url: http://www.iitkgp.ac.in/
   title: 'Data Mining'

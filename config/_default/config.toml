@@ -18,7 +18,7 @@ copyright = "&copy;.{year}"
 ############################
 ## Advanced options below ##
 ############################
-
+canonifyURLs = true
 # Get last modified date for content from Git?
 enableGitInfo = false
 
